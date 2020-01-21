@@ -24,4 +24,3 @@ class App extends Component {
 }
 
 render(<App />, document.getElementById('root'));
-render(<Hello />, document.getElementById('custom'));
