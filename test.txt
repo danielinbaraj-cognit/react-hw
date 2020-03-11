@@ -3,4 +3,21 @@ test
 https://github.com/danielinbaraj-cognit/kb.git
 
 
+https://www.trustradius.com/products/ansible/reviews#1
+http://ostolc.org/kvm-clone-guests-from-template-image.html
+https://k8s.af/
+https://medium.com/@jakubkulich/sailing-with-the-istio-through-the-shallow-water-8ae81668381e
+
+
+testing
+https://www.csoonline.com/article/2943524/11-penetration-testing-tools-the-pros-use.html?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etciso_news_2020-02-24&dt=2020-02-24
+
+
+https://docs.zoho.com/sheet/open/io2ap226d063ed9234d64a4b9c4c8032383e2/sheets/UX%20Articles/ranges/A8
+
+https://titosoft.github.io/kvm/terraform-and-kvm/
+
+
+
+https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
 
