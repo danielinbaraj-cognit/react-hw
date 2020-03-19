@@ -3,21 +3,26 @@ test
 https://github.com/danielinbaraj-cognit/kb.git
 
 
-https://www.trustradius.com/products/ansible/reviews#1
-http://ostolc.org/kvm-clone-guests-from-template-image.html
-https://k8s.af/
-https://medium.com/@jakubkulich/sailing-with-the-istio-through-the-shallow-water-8ae81668381e
+https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/
+https://learnk8s.io/kubernetes-ingress-api-gateway#i-ve-heard-i-could-use-istio-as-an-api-gateway
 
+https://docs.zoho.com/sheet/open/2istob43ce2d3bd9742388ca6edeff5db32ef/sheets/Sheet1/ranges/A1:C1
 
-testing
-https://www.csoonline.com/article/2943524/11-penetration-testing-tools-the-pros-use.html?utm_source=Mailer&utm_medium=ET_batch&utm_campaign=etciso_news_2020-02-24&dt=2020-02-24
-
-
-https://docs.zoho.com/sheet/open/io2ap226d063ed9234d64a4b9c4c8032383e2/sheets/UX%20Articles/ranges/A8
-
-https://titosoft.github.io/kvm/terraform-and-kvm/
-
-
-
-https://www.tecmint.com/fix-user-is-not-in-the-sudoers-file-the-incident-will-be-reported-ubuntu/
+https://istio.io/docs/ops/deployment/requirements/
+https://istio.io/docs/concepts/security/#mutual-tls-authentication
+https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc
+https://blog.envoyproxy.io/the-universal-data-plane-api-d15cec7a
+https://medium.com/better-programming/build-your-own-multi-node-kubernetes-cluster-with-monitoring-346a7e2ef6e2
+https://medium.com/@alenkacz/whats-the-difference-between-runc-containerd-docker-3fc8f79d4d6e
+https://www.upguard.com/articles/docker-vs-coreos
+https://amoldighe.github.io/2017/12/20/kvm-networking/
+https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
+https://learning.oreilly.com/library/view/kubernetes-on-aws/9781788390071/0c02ab9e-36f4-4319-bdde-a9fa1edb2133.xhtml
+https://tech.wayfair.com/2018/12/project-argo-open-source-on-prem-automation/
+https://www.youtube.com/watch?v=VfeNLDxxpco
+https://www.youtube.com/watch?v=VicH6KojwCI
+https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
+https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
+https://nats.io/
+https://dzone.com/articles/microservices-with-cqrs-and-event-sourcing
 
